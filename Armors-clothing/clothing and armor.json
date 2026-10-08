@@ -329,5 +329,26 @@
     "material_thickness": 2,
     "environmental_protection": 2,
     "flags": [ "VARSIZE", "WATERPROOF" ]
+  },
+  {
+    "id": "cargo_bra",
+    "type": "ARMOR",
+    "name": { "str": "bra" },
+    "description": "A complex cargo bra.  For protecting those bits you don't want zombies to look at, but also adds a small storage bit.",
+    "weight": "32 g",
+    "volume": "250 ml",
+    "price": "15 USD",
+    "price_postapoc": "50 cent",
+    "material": [ "cotton" ],
+    "symbol": "[",
+    "looks_like": "tank_top",
+    "color": "white",
+    "covers": [ "torso" ],
+    "coverage": 5,
+	"encumbrance": 2,
+    "warmth": 5,
+	"storage": "10 L",
+    "material_thickness": 1,
+    "flags": [ "VARSIZE", "SKINTIGHT", "POWERARMOR_COMPATIBLE", "ALLOWS_WINGS" ]
   }
 ]

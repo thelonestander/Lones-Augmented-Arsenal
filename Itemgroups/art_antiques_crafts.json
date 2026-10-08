@@ -10,7 +10,8 @@
       { "item": "four_barrel_pistol_flintlock", "prob": 2 },
       { "item": "chain_sword", "prob": 1 },
       { "item": "axe_flintlock", "prob": 4 },
-	   { "item": "m22_knifegun", "prob": 5 }
+	  { "item": "m22_knifegun", "prob": 5 },
+	  { "item": "cargo_bra", "prob": 4 }
     ]
   }
 ]
