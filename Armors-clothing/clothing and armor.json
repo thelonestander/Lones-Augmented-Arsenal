@@ -333,7 +333,7 @@
   {
     "id": "cargo_bra",
     "type": "ARMOR",
-    "name": { "str": "bra" },
+    "name": { "str": "cargo bra" },
     "description": "A complex cargo bra.  For protecting those bits you don't want zombies to look at, but also adds a small storage bit.",
     "weight": "32 g",
     "volume": "250 ml",
