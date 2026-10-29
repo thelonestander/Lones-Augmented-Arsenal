@@ -87,7 +87,7 @@
     "name": { "str": "Bionic Master Trainer" },
     "description": "You were a cyber‑augmented animal trainer for the military. Everyone abandoned the facility, and you just couldnt leave your beloved animals with top of the line armor behind. ",
     "points": 8,
-	"CBMs": [ "bio_shock_absorber", "bn_bio_solar", "afs_bio_linguistic_coprocessor", "bio_power_storage_mkII" ],
+	"CBMs": [ "bio_shock_absorber", "bn_bio_solar", "bio_memory", "bio_power_storage_mkII" ],
 
     "skills": [
       { "name": "gun", "level": 2 },

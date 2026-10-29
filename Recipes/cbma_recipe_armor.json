@@ -659,7 +659,7 @@
       [ [ "bio_str_enhancer", 8 ], [ "cbma_myomer_fiber", 16 ] ],
       [ [ "bio_face_mask", 1 ] ],
       [ [ "bio_ads", 1 ] ],
-      [ [ "bio_ods", 1 ] ],
+      [ [ "bio_shock", 1 ] ],
       [ [ "bio_cqb", 1 ] ],
       [ [ "minireactor", 1 ] ],
       [ [ "bio_power_storage_mkII", 4 ], [ "bio_power_storage", 6 ] ],

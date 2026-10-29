@@ -80,8 +80,8 @@
       [ [ "bio_blade", 1 ] ],
       [ [ "bio_shotgun", 1 ] ],
       [ [ "bio_hydraulics", 1 ] ],
-      [ [ "bio_infrared", 1 ] ],
-      [ [ "bio_ods", 1 ] ],
+      [ [ "bio_night_vision", 1 ] ],
+      [ [ "bio_shock", 1 ] ],
       [ [ "bio_power_armor_interface_mkII", 1 ] ],
       [ [ "bio_targeting", 1 ] ]
     ]
