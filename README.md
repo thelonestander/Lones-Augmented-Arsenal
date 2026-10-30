@@ -363,9 +363,11 @@ Kenan — ideas + code help
 
 SzQ — ideas
 
-Ham Attck - sounds (coming soon) 
+Ham Attck - sounds 
 
-Dedmemdev - sprites for the mod (coming soon)
+Dedmemdev - sprites for the mod
+
+NakedJake - full sprites for the mod
 
 The BN community — support, feedback, and encouragement
 
