@@ -56,7 +56,7 @@
   {
     "id": "bio_power_storage_mkIII",
     "type": "bionic",
-    "name": { "str": "Power Storage mkIII" },
+    "name": { "str": "Power Storage Mk III" },
     "capacity": "500 kJ",
     "description": "A Compact Bionics Module that increases your power capacity by 500 kJ.  Having at least one of these is a prerequisite to using powered bionics.  You will also need a power supply, found in various CBMs.",
     "flags": [ "BIONIC_NPC_USABLE", "MULTIINSTALL", "BIONIC_SHOCKPROOF" ],
@@ -66,7 +66,7 @@
   {
     "id": "bio_power_storage_mkIV",
     "type": "bionic",
-    "name": { "str": "Power Storage mkIV" },
+    "name": { "str": "Power Storage Mk IV" },
     "capacity": "750 kJ",
     "description": "A Compact Bionics Module that increases your power capacity by 750 kJ.  Having at least one of these is a prerequisite to using powered bionics.  You will also need a power supply, found in various CBMs.",
     "flags": [ "BIONIC_NPC_USABLE", "MULTIINSTALL", "BIONIC_SHOCKPROOF" ],
