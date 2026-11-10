@@ -127,17 +127,13 @@
     "environmental_protection": 15,
     "qualities": [ [ "GLARE", 1 ] ],
     "flags": [ "WATER_FRIENDLY", "SUN_GLASSES", "VARSIZE", "STURDY" ],
-    "relic_data": {
-  "passive_effects": [
-    {
-      "values": [
-        { "value": "PERCEPTION", "add": 2 },
-        { "value": "CLAIRVOYANCE", "max": 4 },
-        { "value": "DEXTERITY", "add": 2 }
+    "artifact_data": {
+      "effects_worn": [
+        "AEP_PER_UP",
+        "AEP_CLAIRVOYANCE",
+        "AEP_DEX_UP"
       ]
     }
-  ]
-}
   },
 
   {
@@ -219,16 +215,16 @@
     "turns_per_charge": 18,
     "revert_to": "rm13_bionic_armor",
     "relic_data": {
-  "passive_effects": [
-    {
-      "has": "WORN",
-      "condition": "ACTIVE",
-      "values": [
-        { "value": "STRENGTH", "add": 10 }
+      "passive_effects": [
+        {
+          "has": "WORN",
+          "condition": "ACTIVE",
+          "values": [
+            { "value": "STRENGTH", "add": 10 }
+          ]
+        }
       ]
-    }
-  ]
-}
+    },
     "use_action": {
       "type": "transform",
       "menu_text": "Turn off",
