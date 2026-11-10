@@ -1,0 +1,268 @@
+{
+    "id": "digital_gun_recipe_archive",
+    "copy-from": "digital_collection",
+    "type": "GENERIC",
+    "name": { "str": "saved gun smithing recipe" },
+    "description": "A saved recipe from a gun smithing video series.",
+    "item_vars": {
+      "digital_random_recipes": "{\"count\":1,\"category\":\"CC_WEAPON\",\"min_difficulty\":0,\"max_difficulty\":3,\"difficulty_chance_offset\":0}"
+    }
+  },
+  {
+    "id": "digital_house_collection",
+    "copy-from": "digital_collection",
+    "type": "GENERIC",
+    "name": { "str": "house music collection" },
+    "description": "A saved collection of house music tracks.",
+    "extend": { "flags": [ "DIGITAL_MUSIC" ] },
+    "item_vars": { "digital_music_morale_cap": "30", "digital_music_cooldown_seconds": "200" }
+  },
+  {
+    "id": "digital_bds9_video",
+    "copy-from": "digital_instruction",
+    "type": "BOOK",
+    "name": { "str": "back door sluts 9" },
+    "description": "A saved adult video. Known for its awesome line up of scenes and girls, this video is VERY erotic, and there is eight more prior to this one!",
+    "fun": 10
+  },
+  {
+  "id": "digital_tv_zed_hunters",
+  "copy-from": "digital_instruction",
+  "type": "BOOK",
+  "name": { "str": "Zed Hunters" },
+  "description": "A reality TV show following self-proclaimed monster hunters as they investigate strange disappearances and alleged zombie sightings. Most episodes end with disappointed skepticism.",
+  "fun": 2
+},
+{
+  "id": "digital_tv_arcology_life",
+  "copy-from": "digital_instruction",
+  "type": "BOOK",
+  "name": { "str": "Arcology Life" },
+  "description": "A lifestyle program exploring the luxurious lives of residents in experimental self-contained arcologies. The hosts insist this is the future of human civilization.",
+  "fun": 1
+},
+{
+  "id": "digital_movie_xedra",
+  "copy-from": "digital_instruction",
+  "type": "BOOK",
+  "name": { "str": "XEDRA: Black Site" },
+  "description": "A low-budget conspiracy thriller involving secret government laboratories, dimensional breaches, and impossible creatures. Critics called it absurdly unrealistic.",
+  "fun": 4
+},
+{
+  "id": "digital_documentary_portal_mysteries",
+  "copy-from": "digital_instruction",
+  "type": "BOOK",
+  "name": { "str": "Portal Mysteries" },
+  "description": "A documentary series examining unexplained disappearances, strange lights, and other anomalies reported throughout New England.",
+  "fun": 2
+},
+{
+  "id": "digital_movie_mi_go_moon",
+  "copy-from": "digital_instruction",
+  "type": "BOOK",
+  "name": { "str": "Moon of the Mi-Go" },
+  "description": "A campy science-fiction horror movie where human colonists on the Moon discover an ancient alien civilization beneath the surface.",
+  "fun": 5
+},
+{
+  "id": "digital_tv_prepper_patriot",
+  "copy-from": "digital_instruction",
+  "type": "BOOK",
+  "name": { "str": "Prepper Patriot" },
+  "description": "A survival show featuring increasingly elaborate bunker systems, stockpiles, and emergency plans for disasters ranging from blackouts to alien invasions.",
+  "fun": 3
+},
+{
+  "id": "digital_movie_lab_51",
+  "copy-from": "digital_instruction",
+  "type": "BOOK",
+  "name": { "str": "Lab 51" },
+  "description": "An action-horror film about genetically engineered supersoldiers escaping from a secret military facility.",
+  "fun": 4
+},
+{
+  "id": "digital_tv_mutant_makeover",
+  "copy-from": "digital_instruction",
+  "type": "BOOK",
+  "name": { "str": "Mutant Makeover" },
+  "description": "A controversial reality show imagining how gene editing technology might transform future generations. Its predictions are remarkably unsettling.",
+  "fun": 3
+},
+{
+  "id": "digital_documentary_cataclysm_files",
+  "copy-from": "digital_instruction",
+  "type": "BOOK",
+  "name": { "str": "The Cataclysm Files" },
+  "description": "A sensational conspiracy series connecting government cover-ups, mysterious laboratories, cult activity, and interdimensional entities.",
+  "fun": 4
+},
+{
+  "id": "digital_movie_skitterers",
+  "copy-from": "digital_instruction",
+  "type": "BOOK",
+  "name": { "str": "Skitterers" },
+  "description": "A creature feature about giant extradimensional insects infesting a small Midwestern town. The special effects have not aged well.",
+  "fun": 5
+},
+{
+  "id": "digital_tv_tales_from_refugee_center",
+  "copy-from": "digital_instruction",
+  "type": "BOOK",
+  "name": { "str": "Tales from the Refugee Center" },
+  "description": "An anthology drama set in a crowded shelter where desperate survivors share stories of heroism, tragedy, and the bizarre.",
+  "fun": 2
+},
+{
+  "id": "digital_tv_hub01",
+  "copy-from": "digital_instruction",
+  "type": "BOOK",
+  "name": { "str": "Hub 01" },
+  "description": "A mystery series following scientists trapped within an isolated research facility where increasingly strange phenomena are discovered.",
+  "fun": 3
+},
+{
+  "id": "digital_movie_lab_delta",
+  "copy-from": "digital_instruction",
+  "type": "BOOK",
+  "name": { "str": "Lab Delta" },
+  "description": "Military personnel investigate a classified underground facility after all communication suddenly ceases.",
+  "fun": 5
+},
+{
+  "id": "digital_documentary_logistics_wars",
+  "copy-from": "digital_instruction",
+  "type": "BOOK",
+  "name": { "str": "Logistics Wars" },
+  "description": "A documentary exploring the immense military infrastructure required to supply modern armies across the world.",
+  "fun": 1
+},
+{
+  "id": "digital_tv_fortress_america",
+  "copy-from": "digital_instruction",
+  "type": "BOOK",
+  "name": { "str": "Fortress America" },
+  "description": "A speculative series examining military preparations for biological outbreaks, cyberattacks, and other national emergencies.",
+  "fun": 3
+},
+{
+  "id": "digital_tv_atomic_living",
+  "copy-from": "digital_instruction",
+  "type": "BOOK",
+  "name": { "str": "Atomic Living" },
+  "description": "A lifestyle show dedicated to the latest consumer technology. Hosts review atomic smartphones, smart homes, and personal AI assistants while marveling at the future.",
+  "fun": 2
+},
+{
+  "id": "digital_tv_tomorrows_gadgets",
+  "copy-from": "digital_instruction",
+  "type": "BOOK",
+  "name": { "str": "Tomorrow's Gadgets" },
+  "description": "A weekly technology program showcasing new electronic devices months before they reach store shelves.",
+  "fun": 3
+},
+{
+  "id": "digital_tv_connected",
+  "copy-from": "digital_instruction",
+  "type": "BOOK",
+  "name": { "str": "Connected" },
+  "description": "Industry experts discuss the increasingly interconnected world of smart appliances, autonomous vehicles, and personal electronics.",
+  "fun": 1
+},
+{
+  "id": "digital_tv_atomic_unboxed",
+  "copy-from": "digital_instruction",
+  "type": "BOOK",
+  "name": { "str": "Atomic Unboxed" },
+  "description": "A popular review show where hosts enthusiastically unbox and test the newest Atomic brand devices.",
+  "fun": 3
+},
+{
+  "id": "digital_tv_upgrade",
+  "copy-from": "digital_instruction",
+  "type": "BOOK",
+  "name": { "str": "Upgrade!" },
+  "description": "Contestants compete to modernize outdated homes using the latest smart technology and consumer robotics.",
+  "fun": 2
+},
+{
+  "id": "digital_tv_atomic_launch",
+  "copy-from": "digital_instruction",
+  "type": "BOOK",
+  "name": { "str": "Atomic Launch Event" },
+  "description": "A special presentation revealing the newest generation of Atomic smartphones to tremendous media excitement.",
+  "fun": 2
+},
+{
+  "id": "digital_documentary_atomic_revolution",
+  "copy-from": "digital_instruction",
+  "type": "BOOK",
+  "name": { "str": "The Atomic Revolution" },
+  "description": "A documentary chronicling the rise of Atomic Electronics from a small startup to a global technology giant.",
+  "fun": 1
+},
+{
+  "id": "digital_tv_app_wars",
+  "copy-from": "digital_instruction",
+  "type": "BOOK",
+  "name": { "str": "App Wars" },
+  "description": "Developers compete to create the next must-have application for Atomic mobile devices.",
+  "fun": 2
+},
+{
+  "id": "digital_tv_smart_life",
+  "copy-from": "digital_instruction",
+  "type": "BOOK",
+  "name": { "str": "Smart Life" },
+  "description": "A showcase of consumers who rely on Atomic products for everything from shopping and transportation to entertainment and health monitoring.",
+  "fun": 2
+},
+{
+  "id": "digital_tv_the_safe_future",
+  "copy-from": "digital_instruction",
+  "type": "BOOK",
+  "name": { "str": "The Safe Future" },
+  "description": "Experts confidently explain how modern technology has virtually eliminated the possibility of a major societal collapse.",
+  "fun": 5
+},
+{
+  "id": "digital_tv_world_online",
+  "copy-from": "digital_instruction",
+  "type": "BOOK",
+  "name": { "str": "World Online" },
+  "description": "A celebratory look at humanity's complete dependence on digital infrastructure and global connectivity.",
+  "fun": 4
+},
+{
+  "id": "digital_movie_last_launch",
+  "copy-from": "digital_instruction",
+  "type": "BOOK",
+  "name": { "str": "Last Launch" },
+  "description": "A corporate drama following the development of a revolutionary smartphone intended to change the world forever.",
+  "fun": 3
+},
+{
+  "id": "digital_tv_always_connected",
+  "copy-from": "digital_instruction",
+  "type": "BOOK",
+  "name": { "str": "Always Connected" },
+  "description": "A technology news program that explores a future where nobody is ever more than a second away from the internet.",
+  "fun": 4
+},
+{
+  "id": "digital_tv_atomic_insider",
+  "copy-from": "digital_instruction",
+  "type": "BOOK",
+  "name": { "str": "Atomic Insider" },
+  "description": "A weekly show covering Atomic's latest smartphones, wearable devices, AI assistants, and rumors of upcoming products. The hosts constantly speculate about technology becoming indispensable to everyday life.",
+  "fun": 3
+},
+{
+  "id": "digital_tv_atomic_final_keynote",
+  "copy-from": "digital_instruction",
+  "type": "BOOK",
+  "name": { "str": "Atomic Final Keynote" },
+  "description": "Atomic's final product presentation. Before a packed auditorium, executives unveil the company's most ambitious lineup yet: Atomic Thermal apparel, the Atomic Flashlight, the Atomic Laptop Pro, the Atomic Jackhammer, personal wellness devices, and a host of interconnected consumer products. The audience erupts into applause as presenters speak confidently of a brighter, safer, and more connected future. The recording ends with the words 'The Best Is Yet To Come.'",
+  "fun": 5
+}
+
