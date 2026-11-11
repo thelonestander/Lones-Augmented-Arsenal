@@ -107,5 +107,17 @@
       { "item": "rm11b_sniper_rifle_base", "prob": 10 },
 	  { "item": "riv_grenade", "prob": 10 }
     ]
+  },
+  {
+    "type": "item_group",
+    "id": "bionics_mil",
+    "items": [
+      [ "bio_ammo_fabricator", 10 ]
+  },
+  {
+    "type": "item_group",
+    "id": "bionic_power_storage_mil",
+    "//": "Military and super-science power storage bionics, includes all current variants.",
+    "items": [ [ "bio_power_storage_mkIII", 20 ], [ "bio_power_storage_mkIV", 10 ] ]
   }
 ]

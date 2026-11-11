@@ -95,5 +95,120 @@
     "points": 6,
     "flags": [ "BIONIC_TOGGLED", "BIONIC_WEAPON", "NO_UNWIELD", "USES_BIONIC_POWER" ],
     "stat_bonus": [ [ "PER", 3 ] ]
+  },
+  {
+    "id": "bio_ammo_fabricator",
+    "type": "bionic",
+    "name": { "str": "Internal Ammo Fabricator" },
+    "description": "A military nanoforge capable of manufacturing ammunition from stored materials.",
+    "capacity": 0,
+    "learned_spells": [
+      [ "spell_bio_ammo_fabricator_9mm", 1 ],
+      [ "spell_bio_ammo_fabricator_223", 1 ],
+      [ "spell_bio_ammo_fabricator_308", 1 ],
+      [ "spell_bio_ammo_fabricator_12ga", 1 ]
+    ],
+    "flags": [  ]
+  },
+  {
+    "id": "spell_components_bio_ammo_fabricator_9mm",
+    "type": "requirement",
+    "//": "Found the actual lead to craft 25 rounds of 9x19 FMJ, then just did a fifth of it as scrap to represent casings and the like",
+    "components": [ [ [ "scrap", 10 ] ], [ [ "lead", 50 ] ] ]
+  },
+  {
+    "id": "spell_components_bio_ammo_fabricator_223",
+    "type": "requirement",
+    "//": "Found the actual lead to craft 25 rounds of .223 Remington, then just did a fifth of it as scrap to represent casings and the like",
+    "components": [ [ [ "scrap", 15 ] ], [ [ "lead", 75 ] ] ]
+  },
+  {
+    "id": "spell_components_bio_ammo_fabricator_308",
+    "type": "requirement",
+    "//": "Found the actual lead to craft 25 rounds of .308 Winchester, then just did a fifth of it as scrap to represent casings and the like",
+    "components": [ [ [ "scrap", 30 ] ], [ [ "lead", 150 ] ] ]
+  },
+  {
+    "id": "spell_components_bio_ammo_fabricator_12ga",
+    "type": "requirement",
+    "//": "Found the actual lead to craft 25 rounds of 00 shot shells (12 gauge), then just did a fifth of it as scrap to represent casings and the like",
+    "components": [ [ [ "scrap", 50 ] ], [ [ "lead", 250 ] ] ]
+  },
+  {
+    "id": "spell_bio_ammo_fabricator_9mm",
+    "type": "SPELL",
+    "name": { "str": "Ammo Fabricator: 9x19mm FMJ" },
+    "description": "Utilizes your advanced bionic ammo fabricator to produce 25 rounds of 9mm FMJ from some scrap materials",
+    "valid_targets": [ "self", "ally" ],
+    "flags": [ "BRAWL", "SILENT", "NO_LEGS", "NO_HANDS", "NO_EXPLOSION_VFX", "PERMANENT", "NO_FAIL" ],
+    "effect": "spawn_item",
+    "effect_str": "9mmfmj",
+    "energy_source": "BIONIC",
+    "components": "spell_components_bio_ammo_fabricator_9mm",
+    "max_level": 1,
+    "difficulty": 0,
+    "//1": "casting time is in moves, i.e. 100 casting time = 1 turn",
+    "base_casting_time": 6000,
+    "base_energy_cost": 300,
+    "//2": "25 is a nice round unit",
+    "min_damage": 25
+  },
+  {
+    "id": "spell_bio_ammo_fabricator_223",
+    "type": "SPELL",
+    "name": { "str": "Ammo Fabricator: 5.56 \".223 Remington\"" },
+    "description": "Utilizes your advanced bionic ammo fabricator to produce 25 rounds of .223 Remington from some scrap materials",
+    "valid_targets": [ "self", "ally" ],
+    "flags": [ "BRAWL", "SILENT", "NO_LEGS", "NO_HANDS", "NO_EXPLOSION_VFX", "PERMANENT", "NO_FAIL" ],
+    "effect": "spawn_item",
+    "effect_str": "223",
+    "energy_source": "BIONIC",
+    "components": "spell_components_bio_ammo_fabricator_223",
+    "max_level": 1,
+    "difficulty": 0,
+    "//1": "casting time is in moves, i.e. 100 casting time = 1 turn",
+    "base_casting_time": 6000,
+    "base_energy_cost": 300,
+    "//2": "25 is a nice round unit",
+    "min_damage": 25
+  },
+  {
+    "id": "spell_bio_ammo_fabricator_308",
+    "type": "SPELL",
+    "name": { "str": "Ammo Fabricator: 7.62 \".308 Winchester\"" },
+    "description": "Utilizes your advanced bionic ammo fabricator to produce 25 rounds of .308 Winchester from some scrap materials",
+    "valid_targets": [ "self", "ally" ],
+    "flags": [ "BRAWL", "SILENT", "NO_LEGS", "NO_HANDS", "NO_EXPLOSION_VFX", "PERMANENT", "NO_FAIL" ],
+    "effect": "spawn_item",
+    "effect_str": "308",
+    "energy_source": "BIONIC",
+    "components": "spell_components_bio_ammo_fabricator_308",
+    "max_level": 1,
+    "difficulty": 0,
+    "//1": "casting time is in moves, i.e. 100 casting time = 1 turn",
+    "base_casting_time": 6000,
+    "base_energy_cost": 300,
+    "//2": "25 is a nice round unit",
+    "min_damage": 25
+  },
+  {
+    "id": "spell_bio_ammo_fabricator_12ga",
+    "type": "SPELL",
+    "name": { "str": "Ammo Fabricator: 00 shot (12 gauge)" },
+    "description": "Utilizes your advanced bionic ammo fabricator to produce 25 rounds of 00 buckshot (12 gauge) from some scrap materials",
+    "valid_targets": [ "self", "ally" ],
+    "flags": [ "BRAWL", "SILENT", "NO_LEGS", "NO_HANDS", "NO_EXPLOSION_VFX", "PERMANENT", "NO_FAIL" ],
+    "effect": "spawn_item",
+    "effect_str": "shot_00",
+    "energy_source": "BIONIC",
+    "components": "spell_components_bio_ammo_fabricator_12ga",
+    "max_level": 1,
+    "difficulty": 0,
+    "//1": "casting time is in moves, i.e. 100 casting time = 1 turn",
+    "base_casting_time": 6000,
+    "base_energy_cost": 300,
+    "//2": "25 is a nice round unit",
+    "min_damage": 25
   }
 ]
+

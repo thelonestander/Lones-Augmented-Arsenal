@@ -51,5 +51,16 @@
 	"flags": "USES_BIONIC_POWER",
     "price_postapoc": "9800 USD",
     "difficulty": 16
+  },
+  {
+    "id": "bio_ammo_fabricator",
+    "copy-from": "bionic_general_npc_usable",
+    "type": "BIONIC_ITEM",
+    "name": { "str_sp": "Internal Ammo Fabricator" },
+    "looks_like": "bio_int_enhancer",
+    "description": "A military nanoforge capable of manufacturing ammunition from stored materials. Used for emergency situations when you run out of ammo.",
+    "price": "20000 USD",
+    "weight": "6800 g",
+    "difficulty": 15
   }
 ]
