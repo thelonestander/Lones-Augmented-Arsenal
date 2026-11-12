@@ -1,9 +1,10 @@
-{
-    "id": "digital_content_terminal_files",
+ [
+ {
     "type": "item_group",
+    "id": "digital_media_lones",
+    "//": "Movies and televion pre war.",
     "subtype": "distribution",
     "entries": [
-      { "item": "digital_gun_recipe_archive", "prob": 10 },
       { "item": "digital_house_collection", "prob": 8 },
       { "item": "digital_bds9_video", "prob": 8 },
       { "item": "digital_tv_zed_hunters", "prob": 15 },
@@ -35,6 +36,32 @@
 	  { "item": "digital_movie_last_launch", "prob": 8 },
       { "item": "digital_tv_always_connected", "prob": 5 },
       { "item": "digital_tv_atomic_insider", "prob": 8 },
-	  { "item": "digital_tv_atomic_final_keynote", "prob": 5 }
+	  { "item": "digital_tv_atomic_final_keynote", "prob": 3 }
+    ]
+  },
+  {
+    "id": "digital_content_recordings",
+    "type": "item_group",
+    "subtype": "distribution",
+    "entries": [
+      { "group": "digital_media_lones", "prob": 6 }
+    ]
+  },
+  {
+    "id": "digital_content_encrypted",
+    "type": "item_group",
+    "subtype": "collection",
+    "entries": [
+      { "group": "digital_media_lones_encrypted", "prob": 20 }
+    ]
+  },
+  {
+    "type": "item_group",
+    "id": "digital_media_lones_encrypted",
+    "//": "Rare stuff.",
+    "subtype": "distribution",
+    "entries": [
+      { "item": "digital_gun_recipe_archive", "prob": 10 }
     ]
   }
+  ]
