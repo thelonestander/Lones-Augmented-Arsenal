@@ -4,11 +4,11 @@
     "subtype": "collection",
     "id": "vending_bionics",
     "entries": [
-      { "group": "bionics_common", "prob": 100 }
+      { "group": "lones_bionics_common", "prob": 100 }
     ]
   },
   {
-    "id": "bionics_common",
+    "id": "lones_bionics_common",
     "type": "item_group",
     "items": [
       [ "blackmarket_cbm_kit_box", 1 ],

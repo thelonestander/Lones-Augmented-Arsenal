@@ -18,8 +18,9 @@
     "id": "vault_good",
     "//": "Useful or valuable items for bank vaults.",
     "items": [
-      { "item": "x_12_pistol", "prob": 5 },
-      { "item": "x_12_shot_mag", "prob": 10 },
+      { "item": "AF2011A1", "prob": 5 },
+      { "item": "af2011_mag", "prob": 10 },
+	  { "item": "af2011_bigmag", "prob": 5 },
 	  { "item": "axe_bayonet", "prob": 10 }
     ]
   }
