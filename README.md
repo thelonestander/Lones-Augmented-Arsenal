@@ -339,22 +339,24 @@ holdout_holster - can allow a mag and a gun at the same time
 - hover_superbike
 
 📦 Installation
-Download the latest release from the GitHub Releases page.
+- Download the latest release from the GitHub Releases page.
 
-Drop the folder into your BN mods/ directory.
+- Drop the folder into your BN mods/ directory.
 
-Enable Lone’s Augmented Arsenal in your world’s mod list.
+- If you want my sounds within the mod to work then copy the folder and paste it in BN's otopack and delete the soundpack.txt in my sounds folder
 
-Load order: place it after content mods and before total conversions.
+- Enable Lone’s Augmented Arsenal in your world’s mod list.
+
+- Load order: place it after content mods and before total conversions.
 
 🧪 Compatibility
-Bright Nights only — not compatible with DDA.
+- Bright Nights only — not compatible with DDA.
 
-Requires Cata++, and Aftershock
+- Requires Cata++, and Aftershock
 
-Designed to work cleanly with large modlists.
+- Designed to work cleanly with large modlists.
 
-No hard overwrites; most content is additive.
+- No hard overwrites; most content is additive.
 
 🖼️ Color‑Coded Mod Pack
 Each submodule in my mod pack uses color‑coding for easy identification (see screenshot on GitHub). 
