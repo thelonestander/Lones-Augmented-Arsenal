@@ -1,14 +1,14 @@
 # Lones Augmented Arsenal!
  
- PLEASE READ FOR INSTALL INSTRCUTIONS
  ASK FOR PERMISSION TO USE OR EDIT OR COPY ANYTHING IN THIS MOD OR MY OTHER MODS I DO NOT WANT TO DMCA ANYONE
- 
-<img width="1200" height="1200" alt="dc9b6093-f00c-4677-8806-7166786c3c27" src="https://github.com/user-attachments/assets/e121617e-806f-4466-b3c5-7872984fa2c6" />
 
- Lone’s Augmented Arsenal
+  Lone’s Augmented Arsenal
 A modular high‑tech expansion for Cataclysm: Bright Nights
 
 Lone’s Augmented Arsenal is a comprehensive tech, weapons, and cybernetics expansion designed specifically for Cataclysm: Bright Nights. It embraces BN’s vision of a world where experimental prototypes, cybernetics, and advanced gear feel natural — and pushes that vision further with modular systems, bionic‑powered equipment, new professions, cyber‑animals, and a massive arsenal of weapons and tools.
+
+ 
+<img width="1200" height="1200" alt="dc9b6093-f00c-4677-8806-7166786c3c27" src="https://github.com/user-attachments/assets/e121617e-806f-4466-b3c5-7872984fa2c6" />
 
  
 ![pic2](https://user-images.githubusercontent.com/82045140/195094268-163424c3-d82d-4450-9aec-2b70bda3d5e5.png)
