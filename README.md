@@ -5,7 +5,8 @@
  PLEASE READ FOR INSTALL INSTRCUTIONS
  ASK FOR PERMISSION TO USE OR EDIT OR COPY ANYTHING IN THIS MOD OR MY OTHER MODS I DO NOT WANT TO DMCA ANYONE
  
- <img width="1536" height="1024" alt="Copilot_20260328_151640" src="https://github.com/user-attachments/assets/c30c0d6f-646d-4db4-84b6-af462315234a" />
+<img width="1200" height="1200" alt="dc9b6093-f00c-4677-8806-7166786c3c27" src="https://github.com/user-attachments/assets/e121617e-806f-4466-b3c5-7872984fa2c6" />
+
 
  Photo made by AI. 
 
