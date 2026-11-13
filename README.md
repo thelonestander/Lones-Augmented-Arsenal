@@ -1,6 +1,6 @@
 # Lones Augmented Arsenal!
 
- Tweaks for the game Bright Nights! Why Bn and not DDA? Bright nights fits the vision of the game I enjoy. 
+ Guns and items galore! for the game Bright Nights! Why Bn and not DDA? Bright nights fits the vision of the game I enjoy. 
  
  PLEASE READ FOR INSTALL INSTRCUTIONS
  ASK FOR PERMISSION TO USE OR EDIT OR COPY ANYTHING IN THIS MOD OR MY OTHER MODS I DO NOT WANT TO DMCA ANYONE
@@ -32,307 +32,311 @@ This mod expands Cataclysm with bionic‑integrated armor, advanced weapons, exo
 This list is intended for documentation, debugging, and future development reference.
 
 📦 Armors & Clothing
-cbma_bionic_armor
+- cbma_bionic_armor
 
-cbma_enhanced_armor
+- cbma_enhanced_armor
 
-cbma_bionic_helmet
+- cbma_bionic_helmet
 
-cbma_bionic_mask
+- cbma_bionic_mask
 
-cbma_enhanced_helmet
+- cbma_enhanced_helmet
 
-cbma_bionic_gloves
+- cbma_bionic_gloves
 
-cbma_enhanced_gloves
+- cbma_enhanced_gloves
 
-cbma_bionic_boots
+- cbma_bionic_boots
 
-cbma_enhanced_boots
+- cbma_enhanced_boots
 
-cbma_bionic_duster
+- cbma_bionic_duster
 
-cbma_enhanced_duster
+- cbma_enhanced_duster
 
-cbma_carry_frame
+- cbma_carry_frame
 
-cbma_inner_suite
+- cbma_inner_suite
 
-cbma_enhanced_armor_ups
+- cbma_enhanced_armor_ups
 
-cbma_enhanced_helmet_ups
+- cbma_enhanced_helmet_ups
 
-cbma_enhanced_gloves_ups
+- cbma_enhanced_gloves_ups
 
-wearable_folding_bicycle
+- wearable_folding_bicycle
 
-temporal_shoes_off - fast running shoes
+- temporal_shoes_off - fast running shoes
 
-miltary_aim_assist_goggles - can see through walls!
+- miltary_aim_assist_goggles - can see through walls!
 
-rm13_bionic_armor - upgraded rm13 with extra offense ability
+- rm13_bionic_armor - upgraded rm13 with extra offense ability
 
-XL_tactical_backpack - for the packrat (also a holster) 
+- XL_tactical_backpack - for the packrat (also a holster) 
 
-cargo_duffel_bag - for the packrat that doesnt break your back (also a holster) 
+- cargo_duffel_bag - for the packrat that doesnt break your back (also a holster) 
 
-cargo_boots - has small storage
+- cargo_boots - has small storage
 
-kevlar_pa_small_quadruped - pa for dogs
+- kevlar_pa_small_quadruped - pa for dogs
 
-kevlar_pa_medium_quadruped - pa for horses 
+- kevlar_pa_medium_quadruped - pa for horses 
 
-cargo_socks - the fabled item from dda days that nobody would add. I did! 
+- cargo_socks - the fabled item from dda days that nobody would add. I did! 
 
-thigh_high_cargo_socks - wanted by the community
+- thigh_high_cargo_socks - wanted by the community
+
+- cargo bra
 
 🎁 Fun Items / Utility Boxes
 
-mre_box_small
+- mre_box_small
 
-mre_box_medium
+- mre_box_medium
 
-mre_box_large
+- mre_box_large
 
-electric_cbm_kit_box
+- electric_cbm_kit_box
 
-armor_cbm_kit_box
+- armor_cbm_kit_box
 
-military_cbm_kit_box
+- military_cbm_kit_box
 
-everyday_cbm_kit_box
+- everyday_cbm_kit_box
 
-medical_cbm_kit_box
+- medical_cbm_kit_box
 
-blackmarket_cbm_kit_box
+- blackmarket_cbm_kit_box
 
-bionic_medkit_box
+- bionic_medkit_box
 
 holdout_holster - can allow a mag and a gun at the same time
 
 ⚡ Bionics
 
-bio_lightning_emitter - shoots electricity around you! (caution use electric proof clothes, or the cbm) 
+- bio_lightning_emitter - shoots electricity around you! (caution use electric proof clothes, or the cbm) 
+
+- bio_ammo_fabricator - makes ammo from lead and scrap metal
 
 🗡️ Melee Weapons
 
-cbma_mono_cutter
+- cbma_mono_cutter
 
-cbma_mono_knife
+- cbma_mono_knife
 
-cbma_mono_sword
+- cbma_mono_sword
 
-cbma_mono_spear
+- cbma_mono_spear
 
-cbma_mono_throw_dagger
+- cbma_mono_throw_dagger
 
-chainwhip - a whip but made of chain!
+- chainwhip - a whip but made of chain!
 
-apache_knuckleduster - unique knuckle duster that has a .38 revolver in it.
+- apache_knuckleduster - unique knuckle duster that has a .38 revolver in it.
 
-electro_chainwhip - like the whip above but upgraded! 
+- electro_chainwhip - like the whip above but upgraded! 
 
-dual_action_otf_blade - an actual switchblade
+- dual_action_otf_blade - an actual switchblade
 
-bat_chete
+- bat_chete
 
-survival_spear - has a shotgun built into it for extra fun
+- survival_spear - has a shotgun built into it for extra fun
 
-dual_knife_trench - two knives in one! 
+- dual_knife_trench - two knives in one! 
 
-chain_sword - a sword you activate and its now a chainsword! 
+- chain_sword - a sword you activate and its now a chainsword! 
 
-flamekatana_off - a katana with a hot head
+- flamekatana_off - a katana with a hot head
 
-zweifire_off - a zweil with a hot head
+- zweifire_off - a zweil with a hot head
 
-crackle_hydraulic_gauntlet - electric gauntlet 
+- crackle_hydraulic_gauntlet - electric gauntlet 
 
-thermal_hydraulic_gauntlet - hot gauntlet
+- thermal_hydraulic_gauntlet - hot gauntlet
 
-acid_hydraulic_gauntlet - acid gauntlet 
+- acid_hydraulic_gauntlet - acid gauntlet 
 
-folding_axe - an axe that folds to be small
+- folding_axe - an axe that folds to be small
 
-gun_sword_metal - a sword with a gun built in
+- gun_sword_metal - a sword with a gun built in
 
-m22_knifegun - a knife with a .22cal gun built in
+- m22_knifegun - a knife with a .22cal gun built in
 
 🧑‍🚀 Professions
 
-cbma_bionic_cowboy
+- cbma_bionic_cowboy
 
-cbma_bionic_expert_trainer - comes with one of each cyber animal! 
+- cbma_bionic_expert_trainer - comes with one of each cyber animal! 
 
-bionic_long_range_recon - comes with a foldable gyrycopter and foldable solar cart!
+- bionic_long_range_recon - comes with a foldable gyrycopter and foldable solar cart!
 
-bionic_survivor_nomad - comes with a bus
+- bionic_survivor_nomad - comes with a bus
 
-aug_planar_frontiersman - with a key to another dimesnion?! 
+- aug_planar_frontiersman - with a key to another dimesnion?! 
 
 🐾 Monsters, Animals & Mechs
-combat_bionic_mech - a new mech built with bionics in mind and much more combat friendly. 
+- combat_bionic_mech - a new mech built with bionics in mind and much more combat friendly. 
 
-mon_cyber_german
+- mon_cyber_german
 
-mon_cyber_german_pup
+- mon_cyber_german_pup
 
-mon_cyber_cat_kitten
+- mon_cyber_cat_kitten
 
-mon_cyber_cat
+- mon_cyber_cat
 
-mon_cyber_horse
+- mon_cyber_horse
 
 🔫 Firearms, Energy Weapons & Attachments
 (Ammo and magazines exist but are not listed here.)
 
-auto_crossbow - cross bow with a mag
+- auto_crossbow - cross bow with a mag
 
-plasma_longbow - a longbow of the future! 
+- plasma_longbow - a longbow of the future! 
 
-machine_bow - ham attacks item, but a bow with really neat near future items! 
+- machine_bow - ham attacks item, but a bow with really neat near future items! 
 
-acid_shot - a weapon mod that adds acid to weapons!
+- acid_shot - a weapon mod that adds acid to weapons!
 
-tri_blade_bayonet - from the walking dead but a tri point bayonet meant for zombie slaying
+- tri_blade_bayonet - from the walking dead but a tri point bayonet meant for zombie slaying
 
-plasma_shot - a weapon mod that adds plasma damage to any weapon!
+- plasma_shot - a weapon mod that adds plasma damage to any weapon!
 
-axe_bayonet
+- axe_bayonet
 
-mach_bow_arrowrest
+- mach_bow_arrowrest
 
-mach_bow_sight
+- mach_bow_sight
 
-mach_bow_silencer
+- mach_bow_silencer
 
-mb_aux_shotgun
+- mb_aux_shotgun
 
-mach_bow_brass_catcher
+- mach_bow_brass_catcher
 
-life_card - a credit card sized .22cal backup holdout gun
+- life_card - a credit card sized .22cal backup holdout gun
 
-folding_rifle_base - turns into a foldable ar15! 
+- folding_rifle_base - turns into a foldable ar15! 
 
-double_m4a1 - double barrel m4a1! double trouble! 
+- double_m4a1 - double barrel m4a1! double trouble! 
 
-double_m249 - double barrel m249! what!
+- double_m249 - double barrel m249! what!
 
-rm277 - bullpup intergrated silenced .277 cal rifle
+- rm277 - bullpup intergrated silenced .277 cal rifle
 
-m134m - a mini minigun! So you dont need a window to fire! 
+- m134m - a mini minigun! So you dont need a window to fire! 
 
-double_mgl - double barrel grenade launcher!
+- double_mgl - double barrel grenade launcher!
 
-modified_deagle_44 - a two shot deagle
+- modified_deagle_44 - a two shot deagle
 
-AF2011A1 - double barrel 1911
+- AF2011A1 - double barrel 1911
 
-gmglynx
+- gmglynx
 
-beowolf_ar
+- beowolf_ar
 
-deagle_50ae - .50ae deagle! 
+- deagle_50ae - .50ae deagle! 
 
-we23s_minigun - from resident evil! 
+- we23s_minigun - from resident evil! 
 
-beretta_93r - three round burst! 
+- beretta_93r - three round burst! 
 
-folding_glock_base - a foldable glock! 
+- folding_glock_base - a foldable glock! 
 
-cbma_em_railrifle
+- cbma_em_railrifle
 
-cbma_em_railrifle_as
+- cbma_em_railrifle_as
 
-plasma_emitter_rifle - rifle sized plasma weapon!
+- plasma_emitter_rifle - rifle sized plasma weapon!
 
-plasma_emitter_carbine - carbine style plasma 
+- plasma_emitter_carbine - carbine style plasma 
 
-plasma_emitter_heavy - heavy plasma gun, like a gatling but smaller 
+- plasma_emitter_heavy - heavy plasma gun, like a gatling but smaller 
 
-plasma_emitter_suppressed - silenced plasma for those wild night raids
+- plasma_emitter_suppressed - silenced plasma for those wild night raids
 
-plasma_emitter_assault - for when you really need to kill zombies 
+- plasma_emitter_assault - for when you really need to kill zombies 
 
-plasma_emitter_sniper - for when you need to kill zombies all the way over there
+- plasma_emitter_sniper - for when you need to kill zombies all the way over there
 
-plasma_emitter_thrower - flamethrower but plasma 
+- plasma_emitter_thrower - flamethrower but plasma 
 
-cbmp_plasma_sword_off - a wondeful and cool plasma sword 
+- cbmp_plasma_sword_off - a wondeful and cool plasma sword 
 
-plasma_emitter_double_assault - double barrel = even more fun
+- plasma_emitter_double_assault - double barrel = even more fun
 
-double_laser_rifle - double barrel laser rifle for extra burning! 
+- double_laser_rifle - double barrel laser rifle for extra burning! 
 
-four_barrel_pistol_flintlock - like the pirates used to use
+- four_barrel_pistol_flintlock - like the pirates used to use
 
-axe_flintlock - a flintlock with a built in axe bayonet 
+- axe_flintlock - a flintlock with a built in axe bayonet 
 
-x_12_pistol - a six shot shotgun revolver 
+- x_12_pistol - a six shot shotgun revolver 
 
-dx_12_punisher - for when you want to put a shotgun in a holster fr
+- dx_12_punisher - for when you want to put a shotgun in a holster fr
 
-aa_12 - duh 
+- aa_12 - duh 
 
-kf2_doomstick - a quad barrel shotgun, for when you want to destory your wrists
+- kf2_doomstick - a quad barrel shotgun, for when you want to destory your wrists
 
-m95_tact_shotgun - a belt fed shotgun 
+- m95_tact_shotgun - a belt fed shotgun 
 
-cindy_suppressed_12g - an intergral suppressed shotgun!
+- cindy_suppressed_12g - an intergral suppressed shotgun!
 
 🔧 Random Items / Tools / Tech
 
-backpack_pa_tactical_large
+- backpack_pa_tactical_large
 
-pa_bigback
+- pa_bigback
 
-cbma_myomer_repair_tool
+- cbma_myomer_repair_tool
 
-cbma_myomer_fiber
+- cbma_myomer_fiber
 
-powered_flight_wings - for when you dont want to mutate but also not use a cbm
+- powered_flight_wings - for when you dont want to mutate but also not use a cbm
 
-imalentms18 - for when you need to light the world
+- imalentms18 - for when you need to light the world
 
-auto_safecracker
+- auto_safecracker
 
-double_plutonium_core - can be added to items that take plutonium to double its space 
+- double_plutonium_core - can be added to items that take plutonium to double its space 
 
-auto_lockpick
+- auto_lockpick
 
-cyber_power_mod - allows items to use bionic power instead 
+- cyber_power_mod - allows items to use bionic power instead 
 
-mollee_gunpack - the first ever worn gun in BN
+- mollee_gunpack - the first ever worn gun in BN
 
-wrist_mounted_9mm - the 2nd ever worn gun in BN
+- wrist_mounted_9mm - the 2nd ever worn gun in BN
 
-house_dimension_key - a key to a safe house! 
+- house_dimension_key - a key to a safe house! 
 
-blob_tailors_kit
+- blob_tailors_kit
 
-pro_oxy_torch - for big projects
+- pro_oxy_torch - for big projects
 
-large_pet_carrier - for mechs mainly tbh
+- large_pet_carrier - for mechs mainly tbh
 
 🚗 Vehicles & Deployables
 
-folded_helicopter_gyro
+- folded_helicopter_gyro
 
-folded_solar_cart
+- folded_solar_cart
 
-folding_helicopter_gyro
+- folding_helicopter_gyro
 
-solar_charging_cart
+- solar_charging_cart
 
-survivor_bus
+- survivor_bus
 
-hover_motorcycle_enduro
+- hover_motorcycle_enduro
 
-the_bug
+- the_bug
 
-the_observer
+- the_observer
 
-hover_superbike
+- hover_superbike
 
 📦 Installation
 Download the latest release from the GitHub Releases page.
@@ -364,9 +368,11 @@ Kenan — ideas + code help
 
 SzQ — ideas
 
-Ham Attck - sounds (coming soon) 
+Ham Attck - sounds 
 
-Dedmemdev - sprites for the mod (coming soon)
+Dedmemdev - sprites for the mod
+
+Naked Jake - sprites for the mod
 
 The BN community — support, feedback, and encouragement
 
