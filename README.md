@@ -1,24 +1,20 @@
 # Lones Augmented Arsenal!
-
- Guns and items galore! for the game Bright Nights! Why Bn and not DDA? Bright nights fits the vision of the game I enjoy. 
  
  PLEASE READ FOR INSTALL INSTRCUTIONS
  ASK FOR PERMISSION TO USE OR EDIT OR COPY ANYTHING IN THIS MOD OR MY OTHER MODS I DO NOT WANT TO DMCA ANYONE
  
 <img width="1200" height="1200" alt="dc9b6093-f00c-4677-8806-7166786c3c27" src="https://github.com/user-attachments/assets/e121617e-806f-4466-b3c5-7872984fa2c6" />
-
-
  Photo made by AI. 
+
+ Lone’s Augmented Arsenal
+A modular high‑tech expansion for Cataclysm: Bright Nights
+
+Lone’s Augmented Arsenal is a comprehensive tech, weapons, and cybernetics expansion designed specifically for Cataclysm: Bright Nights. It embraces BN’s vision of a world where experimental prototypes, cybernetics, and advanced gear feel natural — and pushes that vision further with modular systems, bionic‑powered equipment, new professions, cyber‑animals, and a massive arsenal of weapons and tools.
 
  
 ![pic2](https://user-images.githubusercontent.com/82045140/195094268-163424c3-d82d-4450-9aec-2b70bda3d5e5.png)
 ![Pic for readme](https://user-images.githubusercontent.com/82045140/195094313-2bec28c2-9dab-4e1c-b0b5-91cdcf32fd48.png)
 ![123](https://user-images.githubusercontent.com/82045140/195094332-4e323f70-d90b-42c5-8d59-aa5acaf84777.png)
-
-Lone’s Augmented Arsenal
-A modular high‑tech expansion for Cataclysm: Bright Nights
-
-Lone’s Augmented Arsenal is a comprehensive tech, weapons, and cybernetics expansion designed specifically for Cataclysm: Bright Nights. It embraces BN’s vision of a world where experimental prototypes, cybernetics, and advanced gear feel natural — and pushes that vision further with modular systems, bionic‑powered equipment, new professions, cyber‑animals, and a massive arsenal of weapons and tools.
 
 🌐 Why Bright Nights?
 Bright Nights fits the tone I enjoy — a world where high‑tech gear, experimental weapons, and cybernetics feel integrated rather than out of place.
@@ -27,7 +23,7 @@ This mod is designed for BN specifically and takes advantage of its mechanics, p
 ⚙️ Features Overview
 Lones Augmented Arsenal — Item Index
 A complete categorized index of all items included in Lones Augmented Arsenal.
-This mod expands Cataclysm with bionic‑integrated armor, advanced weapons, exotic tech, deployable vehicles, professions, and more.
+This mod expands Cataclysm with bionic‑integrated armor, advanced weapons, exotic tech, deployable vehicles, professions, and more, listed below!
 
 This list is intended for documentation, debugging, and future development reference.
 
