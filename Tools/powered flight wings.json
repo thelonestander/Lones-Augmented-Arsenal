@@ -27,7 +27,8 @@
     "ammo": [ "battery" ],
     "charges_per_use": 10,
     "max_charges": 1000,
-
+	"magazines": [ [ "battery", [ "light_atomic_battery_cell" ] ] ],
+    "magazine_well": "250 ml",
     "flags": [
       "OUTER",
       "STURDY",
